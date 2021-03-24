@@ -1,4 +1,12 @@
-*(
-  font-family: 'Open Sans', sans serif,
+* {
+    font-family: 'open-sans', sans-serif;
+}
 
-)
+img{
+  max-width: 100%
+
+}
+
+li{
+  list-style: none;
+}
